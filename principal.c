@@ -14,6 +14,7 @@ int main () {
         }
     printf("Digite 1 para continuar e 0 para sair: ");
     scanf("%d", &opcao);
+    printf("\n");
     
     if(opcao == 1){
         system("clear");
